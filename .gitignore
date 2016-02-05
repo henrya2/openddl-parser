@@ -3,6 +3,7 @@
 *.log
 *.tlog
 *.suo
+*.opendb
 CMakeFiles/
 *.bin
 *.exe
